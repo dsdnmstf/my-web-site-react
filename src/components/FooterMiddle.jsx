@@ -1,12 +1,9 @@
 import React from "react";
 
-const FooterHorizontal = () => {
+const FooterMiddle = () => {
   return (
-    <footer className="horizontal">
+    <footer className="middle">
       <div className="social-icons">
-        <a href="https://twitter.com/" target="_blank" rel="noreferrer">
-          <i className="twitter fab fa-twitter fa-2x"></i>
-        </a>
         <a
           href="https://www.linkedin.com/in/mustafa-dasdan-a83152224/"
           target="_blank"
@@ -26,4 +23,4 @@ const FooterHorizontal = () => {
   );
 };
 
-export default FooterHorizontal;
+export default FooterMiddle;
