@@ -6,7 +6,6 @@ const Home = () => {
     <div className="home-bgImg-container">
       <Navbar />
       <main class="home">
-        <h2></h2>
         <h1 class="home__name">
           Mustafa <span class="home__name--last">DASDAN</span>
         </h1>
