@@ -13,13 +13,13 @@ const About = () => {
             habe ich mein Studium zum Jura abgeschlossen. Danach habe ich vier
             Jahre bei Verteidigungsministerium gearbeitet. Im Jahr 2018 bin ich
             nach Deutschland gekommen. Nun habe ich eine C1 Hochschule
-            Sertifikate und Im September 2021 habe meine 9- monatige Bootcamp
-            “Web-Entwicklung Full stack” in einen Intensivkurs bei Firma
-            Clarusway angefangen. Innerhalb kürzester Zeit konnte ich Kenntnisse
-            in HTML5, CSS3, SASS, Javascript, JS-Libraries (React) und Python
-            (Django) erwerben und anwenden. Ich habe selbstständig und im Team
-            praktische IT-Projekte geplant und umgesetzt. Darüber hinaus arbeite
-            ich gerne im Team.
+            Sertifikate und Im September 2021 habe meine 9- monatige
+            Weiterbildung “Web-Entwicklung Full stack” in einen Intensivkurs bei
+            Firma Clarusway angefangen. Innerhalb kürzester Zeit konnte ich
+            Kenntnisse in HTML5, CSS3, SASS, Javascript, JS-Libraries (React)
+            und Python (Django) erwerben und anwenden. Ich habe selbstständig
+            und im Team praktische IT-Projekte geplant und umgesetzt. Darüber
+            hinaus arbeite ich gerne im Team.
           </p>
         </div>
       </div>
