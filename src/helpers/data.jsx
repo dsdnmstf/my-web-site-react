@@ -27,14 +27,14 @@ export const data = [
   {
     number: 5,
     name: "Python-Django-Weather-App",
-    image: "/static/img/pythonweatherapp",
+    image: "/static/img/pythonweatherapp.png",
     url: "https://enigmatic-coast-28265.herokuapp.com/",
   },
   {
     number: 6,
-    name: "JavaScript-Calculator",
-    image: "/static/img/javascriptcalculator.png",
-    url: "https://my-javascript-calculatorr.netlify.app/",
+    name: "React-Task-Tracker",
+    image: "/static/img/reacttasktracker.png",
+    url: "https://my-react-todoappp.netlify.app/",
   },
   {
     number: 7,
@@ -46,13 +46,14 @@ export const data = [
     number: 8,
     name: "React-Todo-App",
     image: "/static/img/reacttodoapp.png",
-    url: "https://my-react-todoappp.netlify.app/",
+    url: "https://my-first-react-todoapp.netlify.app/",
   },
+
   {
     number: 9,
-    name: "React-Task-Tracker",
-    image: "/static/img/reacttacktracker.png",
-    url: "https://my-first-react-todoapp.netlify.app/",
+    name: "JavaScript-Calculator",
+    image: "/static/img/javascriptcalculator.png",
+    url: "https://my-javascript-calculatorr.netlify.app/",
   },
   {
     number: 10,
@@ -69,7 +70,13 @@ export const data = [
   {
     number: 10,
     name: "JavaScript-Free-Meal-app",
-    image: "/static/img/javascriptcalculator.png",
+    image: "/static/img/javascriptfreemeal.png",
     url: "https://my-javascript-freemealapp.netlify.app/",
+  },
+  {
+    number: 11,
+    name: "React-Recipe-App",
+    image: "/static/img/reactrecipeapp.png",
+    url: "https://my-react-recipe-appp.netlify.app/login",
   },
 ];

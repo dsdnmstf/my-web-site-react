@@ -29,16 +29,18 @@ footer.vertical {
   margin-bottom: 1rem;
 
   .social-icons {
+    gap: 0.3rem;
     display: flex;
     flex-direction: column;
     position: fixed;
-    bottom: 1rem;
+    bottom: 0;
+    left: 1rem;
     @extend .link-style;
   }
 
   .copyright {
     position: fixed;
-    bottom: 1rem;
+    bottom: 2rem;
     right: 3rem;
     transform: rotate(90deg) translate(-3rem, -5rem);
   }

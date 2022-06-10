@@ -352,9 +352,9 @@ a {
   color: rgba(255, 255, 255, 0.918);
 }
 
-/* a:hover {
-  font-size: larger;
-} */
+a:hover {
+  transform: scale(1.2);
+}
 
 h1,
 h2,
