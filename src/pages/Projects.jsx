@@ -1,6 +1,6 @@
 import React from "react";
 import "../scss/Cards.scss";
-import FooterVertical from "../components/FooterVertical";
+import FooterHorizontal from "../components/FooterHorizontal";
 import Navbar from "../components/Navbar";
 import { data } from "../helpers/data";
 
@@ -33,7 +33,7 @@ const Projects = () => {
         })}
       </div>
       {/* </main> */}
-      <FooterVertical />
+      <FooterHorizontal />
     </div>
   );
 };
